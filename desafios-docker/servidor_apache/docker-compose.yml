@@ -1,0 +1,15 @@
+services:
+  server:
+    image: httpd
+    restart: always
+    ports:
+      - '8080:80'
+    volumes:
+      - ./webpage:/usr/local/apache2/htdocs
+    networks:
+      - server-network
+
+networks:
+  server-network:
+    driver: bridge
+    

@@ -1,0 +1,90 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+html, body {
+    margin: 0;
+}
+
+li{
+    list-style: none;
+}
+li{
+    margin: 8px 0;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    transition: 0.35s;
+}
+a:hover{
+    color: rgb(5, 108, 108);
+    margin: 0 12px;
+}
+body {
+    background-color: #292929;
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+}
+section {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+nav {
+    width: 15%;
+    background-color: rgb(46, 46, 46);
+    padding: 10px 20px 0px;
+}
+article h1{
+    text-align: center;
+    padding-bottom: 20px;
+}
+header {
+    min-height: 185px;
+    background-image: url("https://cdn.pixabay.com/photo/2024/02/16/06/26/dentist-8576790_1280.png");
+    background-position:center -145px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img1{
+    background-image: url("https://images.pexels.com/photos/4021775/pexels-photo-4021775.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+.img2{
+    background-position: center -315px;
+    background-image: url("https://images.pexels.com/photos/5473215/pexels-photo-5473215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+.content {
+    background-color: rgb(197, 206, 255);
+    min-height: 300px;
+    padding: 20px;
+}
+footer {
+    background-color: rgb(117, 117, 117);
+    height: 120px;
+    text-align: center;
+}
+footer p{
+    padding:10px;
+    margin:0;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    width: 650px;
+}
+th{
+    background-color: #04AA6D;
+    color: white;
+}
+tr:nth-child(even){
+    background-color: #7e7e7e;
+}
