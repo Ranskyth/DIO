@@ -1,6 +1,6 @@
 ## Desafios de Projetos
 
-<p>Repositório Com Desafios de Projetos e código</p>
+<p>Repositório Com Desafios de Projetos e códigos</p>
 
 
 - ### Etec
