@@ -1,3 +1,18 @@
 ## Desafios de Projetos
 
-<p> desafios de projetos feitos pelo curso da dio e do dev samurai </p>
+<p>Repositório Com Desafios de Projetos e código</p>
+
+
+- ### Etec
+    Curso 
+    - Desenvolvimeto de Sistemas
+- ### Dio
+    Curso
+    - Nodejs Fundamentals<br>
+    - React Developer<br>
+    - Angular Developer<br>
+    
+- ### Dev Samurai
+    Curso
+    - Backend - Dominando o NodeJS
+    
