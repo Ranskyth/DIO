@@ -1,6 +1,6 @@
 ## Local de Aprendizado
 
-<p>Repositório Com Desafios de Projetos, códigos, Anotaçoes etc...</p>
+<p>Repositório Com Desafios de Projetos, códigos, Anotações etc...</p>
 
 
 - ### Etec
