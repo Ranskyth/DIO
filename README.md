@@ -22,4 +22,4 @@
     - Aprenda Go
     
 - ### Hacking
-  Anotaçoes    
+    Anotações    
