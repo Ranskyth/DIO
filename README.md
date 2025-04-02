@@ -29,10 +29,4 @@
     Link dos Cursos : https://class.devsamurai.com.br/
 
     obs : vai está disponivel até dezembro de 2025
-
-- ### Aprenda Go
-    Curso
-    - Aprenda Go
-    
-    Link do Curso : https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg
     
