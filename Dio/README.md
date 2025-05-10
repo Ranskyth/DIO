@@ -1,4 +1,4 @@
-### Atividades Propostas ela DIO
+### Atividades Propostas Pela DIO
 
 - Conceitos Basicos de Programação
 

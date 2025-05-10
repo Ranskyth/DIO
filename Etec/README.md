@@ -1,4 +1,4 @@
-### Atividades Propostas ela Etec
+### Atividades Propostas Pela Etec
 
 - Metodologias de Desenvolvimento
     - Kanban
