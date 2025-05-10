@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    width: 100svw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #EAF2F4;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 25px 0 0 0;
+}
+button, input{
+    background-color: azure;
+    padding: 10px;
+}
+img{
+    width: 620px;
+}
+article{
+    margin: 10px 0 0 0;
+    padding: 25px;
+    border: solid 2px;
+    border-radius:25px;
+}
+.salario{
+    font-size: 19px;
+}
+
