@@ -2,15 +2,7 @@
 
 ### Screenshots
 
-<img src="./assets/img1.png" />
-
-<br>
-
 <img src="./assets/img2.png" />
-
-<br>
-
-<img src="./assets/img3.png"/>
 
 ### proposta de Atividade
 <p>
