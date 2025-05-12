@@ -1,8 +1,4 @@
-## Atividade Fluery
-
-## Como utilizar
-
-### 🏁 Atividade Fluery
+### Atividade Fluery
 
 Para executar este banco de dados:
 
