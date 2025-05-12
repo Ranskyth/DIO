@@ -9,6 +9,12 @@ Para executar este banco de dados:
 
 ---
 
+### Demonstração
+
+<video src="./assets/video.webm" />
+
+---
+
 ## Tabelas e Relacionamentos
 
 ### 1. Faixa_Etaria
