@@ -12,6 +12,17 @@
     Link dos Cursos : https://www.dio.me/
 
 <details>
+    <summary>Projetos para Fazer</summary>
+
+- [ ] Cliente Torrent
+- [ ] ERP
+- [ ] Painel Administrativo (Em Desenvolvimento)
+- [x] Gerador de Senhas 
+- [x] Sistema de PatShop Simples 
+- [x] Buscador de CEP
+</details>
+
+<details>
     <summary>Coisas Para Aprender</summary>
 
 - [x] Docker
