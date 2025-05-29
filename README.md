@@ -10,9 +10,10 @@
     Link do Repositório : https://github.com/Ranskyth/estudos/tree/main/Dio
     
     Link dos Cursos : https://www.dio.me/
+    
+- [ ] Docker
 
 <details>
     <summary>Coisas Para Aprender</summary>
-    - [x] Docker
 
 </details> 
