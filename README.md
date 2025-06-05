@@ -16,7 +16,6 @@
 
 - [ ] Cliente Torrent
 - [ ] ERP
-- [ ] Painel Administrativo (Em Desenvolvimento)
 - [x] Gerador de Senhas 
 - [x] Sistema de PatShop Simples 
 - [x] Buscador de CEP
