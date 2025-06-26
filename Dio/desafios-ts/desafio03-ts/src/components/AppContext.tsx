@@ -1,10 +1,8 @@
 import { createContext, useEffect, useState } from "react"
-import { createLocalStorageUser, getAllLocalStorage, getAllLocalStorageUser, IUser } from "../services/storage"
-import { api } from "../api"
+import { getAllLocalStorage, getAllLocalStorageUser, IUser } from "../services/storage"
 
 interface IAppContext {
     user: {},
-    setUser: (user: IUser) => void,
     isLoggedIn: boolean,
     setIsLoggedIn: (isLoggedIn: boolean) => void
 }
@@ -31,7 +29,7 @@ export const AppContextProvider = ({ children }: any) => {
 
   
     return (
-      <AppContext.Provider value={{ user, setUser, isLoggedIn, setIsLoggedIn }}>
+      <AppContext.Provider value={{ user, isLoggedIn, setIsLoggedIn }}>
         { children }
       </AppContext.Provider>
     )

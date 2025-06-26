@@ -1,11 +1,11 @@
 import { Box, Center, Input } from "@chakra-ui/react";
-import { MouseEventHandler, useContext, useEffect, useState } from "react";
+import { useContext, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { AppContext } from "../components/AppContext";
 import { Card } from "../components/Card";
 import DButton from "../components/DButton";
 import { login } from "../services/login";
-import { changeLocalStorage, changeLocalStorageUser, getAllLocalStorageUser, IUser } from "../services/storage";
+import { changeLocalStorage, changeLocalStorageUser, IUser } from "../services/storage";
 
 const Home = () => {
     const [ email, setEmail ] = useState<string>('')
