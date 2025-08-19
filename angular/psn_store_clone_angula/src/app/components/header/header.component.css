@@ -1,0 +1,25 @@
+.img-ps-logo{
+    width: 180px;
+}
+.flex{
+    display: flex;
+}
+ul li{
+    list-style-type: none;
+}
+ul{
+    gap: 20px;
+}
+.container-links{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+header{
+    padding: 10px;
+}
+@media screen and (max-width: 540px){
+    nav{
+        display: none;
+    }    
+}

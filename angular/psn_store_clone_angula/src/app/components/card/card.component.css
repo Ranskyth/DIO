@@ -1,0 +1,57 @@
+
+h3, p{
+  color: white;
+} 
+.column{
+  flex-direction: column;
+}
+.price{
+  position: absolute;
+  top: 60%;
+  align-self: flex-end;
+  justify-items: end;
+}
+img{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 7px;
+  object-fit: cover;
+  object-position: center;
+}
+.container-card{
+  position: relative;
+  width: 350px;
+  height: 450px;
+  border-radius: 7px;
+  transition: .65s;  
+}
+.container-card:hover{
+  transition: .25s;
+  transform: scale(1.02);
+}
+.flex{
+  display: flex;
+}
+
+.container-content{
+  position: relative;
+  z-index: 3;
+  width: 100%;
+  background-color: #00000088;
+}
+.container-content-card{
+  justify-content: end;
+}
+.w-100{
+  width: 100%;
+}
+.h-100{
+  height: 100%;
+}
+.h-40{
+  height: 40px;
+}
+.end{
+  align-self: flex-end;
+}
